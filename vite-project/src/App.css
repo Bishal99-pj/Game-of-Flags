@@ -1,0 +1,21 @@
+.App{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.fi{
+  width: 5em;
+  height: 5em;
+}
+
+.option-btn{
+  margin: 0.5em;
+  outline: none;
+}
+
+.correct{
+  color: green;
+}
+.incorrect{
+  color: rgb(253, 51, 51);
+}

@@ -1,0 +1,11 @@
+{
+  "name": "idk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "me",
+  "license": "idk",
+  "private": true,
+  "dependencies": {
+    "flag-icons": "^6.9.2"
+  }
+}
