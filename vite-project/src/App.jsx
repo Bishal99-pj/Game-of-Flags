@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import nations from "./nation-list";
-import "../node_modules/flag-icons/css/flag-icons.min.css";
+import "../node_modules/flag-icons/css/flag-icons.css";
 import "./App.css";
 
 function App() { 
